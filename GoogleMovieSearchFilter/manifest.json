@@ -1,5 +1,5 @@
 {
     "manifest_version": 2,
-    "name": "Movie Filter",
+    "name": "Google Movie Search Filter",
     "version": "0.1"
-  }
+}
